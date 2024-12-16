@@ -2,6 +2,8 @@
 
 SaiFashionZone is a dedicated e-commerce platform designed to sell a variety of clothing products, including sarees, girls' wear, boys' wear, and ganzy clothes. The website is built to be visually appealing and user-friendly, catering to a diverse customer base.
 
+You can see the live version over here: **[https://clever-gumption-42ecd3.netlify.app](https://clever-gumption-42ecd3.netlify.app)**
+
 ## Features
 **User Features**
   - Browse a wide range of clothing products.
