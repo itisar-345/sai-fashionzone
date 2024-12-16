@@ -26,7 +26,7 @@ SaiFashionZone is a dedicated e-commerce platform designed to sell a variety of 
 
 Clone the repository:
 
-*git clone https://github.com/your-repo/sai-fashionzone.git*
+*git clone [https://github.com/itisar-345/sai-fashionzone.git](https://github.com/itisar-345/sai-fashionzone)*
 
 *cd sai-fashionzone*
 
